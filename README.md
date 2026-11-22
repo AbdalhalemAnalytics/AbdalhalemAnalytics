@@ -1,51 +1,46 @@
-٩Hi, I'm Abdalhalem 👋
+Hi, I'm Abdalhalem 👋
 
-Junior Data Analyst | Excel | SQL | Power BI | Python
+Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-I'm an aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
+I'm passionate about data analysis and transforming raw data into meaningful insights that support better business decisions.
 
-🛠️ Technical Skills
+I enjoy working with data, exploring trends, creating visualizations, and building interactive dashboards.
+
+---
+
+🛠️ Tools & Technologies
 
 - Microsoft Excel
 - SQL
 - Power BI
 - Python
-- Data Visualization
-- Data Cleaning
 
-
-💻 Tools & Technologies
-
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" alt="SQL"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.icons8.com/color/48/power-bi.png" width="45" alt="Power BI"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" alt="Excel"/>
-  </a>
-</p>
-
-📊 My Projects
+📊 Featured Project
 
 Sales Analysis 2025
 
-An interactive sales analysis project featuring business KPIs, data visualizations, and an interactive dashboard.
+A sales data analysis project focused on understanding business performance and presenting insights through interactive visualizations.
 
-"View My Project" (https://github.com/AbdalhalemAnalytics/data-analyst-portfolio)
+Project Highlights:
 
-"View Interactive Dashboard" (https://sites.google.com/view/abdalhalem-sales-2025/full-page-embed)
+- Sales Performance Analysis
+- Business KPIs
+- Data Visualization
+- Interactive Dashboard
 
-🎯 Career Goal
+🔗 "View Project on GitHub" (https://github.com/AbdalhalemAnalytics/data-analyst-portfolio)
 
-To develop my analytical skills and contribute to data-driven business decisions.
+📈 "View Interactive Dashboard" (https://sites.google.com/view/abdalhalem-sales-2025/full-page-embed)
 
-📫 Contact Me
+---
 
-- Email: anwr37668@gmail.com
-- LinkedIn: "Visit My LinkedIn Profile" (https://www.linkedin.com/in/abdalhalem-anwr-3211503b4/)
+🎯 Career Objective
+
+To grow as a Data Analyst, strengthen my technical skills, and help businesses make data-driven decisions.
+
+---
+
+📫 Let's Connect
+
+- 💼 "LinkedIn" (https://www.linkedin.com/in/abdalhalem-anwr-3211503b4/)
+- 🖥️ "GitHub" (https://github.com/AbdalhalemAnalytics)
