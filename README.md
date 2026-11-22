@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Abdalhalem 👋
 
-<!--
-**AbdalhalemAnalytics/AbdalhalemAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst | Excel | SQL | Power BI | Python
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Data Visualization
+- Data Cleaning
+
+📊 My Projects
+
+Sales Analysis 2025
+
+An interactive sales analysis project featuring business KPIs, data visualizations, and an interactive dashboard.
+
+"View My Project" (https://github.com/AbdalhalemAnalytics/data-analyst-portfolio)
+
+"View Interactive Dashboard" (https://sites.google.com/view/abdalhalem-sales-2025/full-page-embed)
+
+🎯 Career Goal
+
+To develop my analytical skills and contribute to data-driven business decisions.
+
+📫 Contact Me
+
+- Email: anwr37668@gmail.com
