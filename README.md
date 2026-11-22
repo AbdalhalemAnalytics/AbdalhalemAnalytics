@@ -12,7 +12,17 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 - Python
 - Data Visualization
 - Data Cleaning
+💻 Tools & Technologies
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=excel,mysql,python,powerbi" />
+</p>📈 Data Analysis Skills
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Intelligence
+- Dashboard Development
 📊 My Projects
 
 Sales Analysis 2025
