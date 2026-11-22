@@ -1,4 +1,4 @@
-Hi, I'm Abdalhalem 👋
+٩Hi, I'm Abdalhalem 👋
 
 Junior Data Analyst | Excel | SQL | Power BI | Python
 
@@ -12,6 +12,8 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 - Python
 - Data Visualization
 - Data Cleaning
+
+
 💻 Tools & Technologies
 
 <p align="left">
@@ -28,23 +30,7 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
     <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" alt="Excel"/>
   </a>
 </p>
-🚀 Featured Projects
 
-1. Sales Analysis 2025
-
-- Analyzed sales data using Microsoft Excel.
-- Created business KPIs and interactive visualizations.
-- Built an interactive dashboard to present business insights.
-
-🔗 "View Project on GitHub" (https://github.com/AbdalhalemAnalytics/data-analyst-portfolio)
-
-📊 "View Live Dashboard" (https://sites.google.com/view/abdalhalem-sales-2025/full-page-embed)
-
-📬 Let's Connect
-
-- "LinkedIn" (https://www.linkedin.com/in/abdalhalem-anwr-3211503b4/)
-- "GitHub" (https://github.com/AbdalhalemAnalytics)
-- Email: anwr37668@gmail.com
 📊 My Projects
 
 Sales Analysis 2025
