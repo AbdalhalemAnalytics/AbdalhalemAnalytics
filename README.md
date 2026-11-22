@@ -14,9 +14,15 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 - Data Cleaning
 💻 Tools & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=excel,mysql,python,powerbi" />
-</p>📈 Data Analysis Skills
+"Excel" (https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+"Power BI" (https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+📈 Data Analysis Skills
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
