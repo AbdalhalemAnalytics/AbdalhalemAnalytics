@@ -30,3 +30,4 @@ To develop my analytical skills and contribute to data-driven business decisions
 📫 Contact Me
 
 - Email: anwr37668@gmail.com
+- LinkedIn: "Visit My LinkedIn Profile" (https://www.linkedin.com/in/abdalhalem-anwr-3211503b4/)
