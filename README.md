@@ -14,21 +14,20 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 - Data Cleaning
 💻 Tools & Technologies
 
-"Excel" (https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-"Power BI" (https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-📈 Data Analysis Skills
-
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Business Intelligence
-- Dashboard Development
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" alt="SQL"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://img.icons8.com/color/48/power-bi.png" width="45" alt="Power BI"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" alt="Excel"/>
+  </a>
+</p>
 📊 My Projects
 
 Sales Analysis 2025
